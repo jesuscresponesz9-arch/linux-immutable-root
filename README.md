@@ -104,19 +104,13 @@ Contribuciones son bienvenidas! Por favor:
 4.Push a la rama
 5.Abre un Pull Request
 
-## 🧪 Pruebas Realizadas
-
 ## 🎥 Evidencia Visual
-
-### Estado Inicial del Sistema
 ![Estado Inicial](screenshots/estado-inicial.png.png)
 
-### Sistema Comprometido (Pre-Reinicio)
 ![Sistema Comprometido](screenshots/sistema-comprometido.png.png)
 
-### Sistema Restaurado (Post-Reinicio)
 ![Sistema Restaurado](screenshots/sistema-restaurado.png.png)
 
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
-¿Te sirvió este proyecto? ¡Dale una ⭐ al repositorio!
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+
