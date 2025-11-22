@@ -1,2 +1,2 @@
 # linux-immutable-root
-"Sistema Linux inmutable con OverlayFS para seguridad"
+"Sistema Linux con root filesystem inmutable usando OverlayFS - Protección contra intrusiones y configuration drift"
