@@ -165,5 +165,3 @@ sudo reboot
 Este proyecto está bajo la Licencia **MIT** — ver el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para detalles.
 
 -----
-
-**[Aquí se insertan las Capturas de Pantalla de la Evidencia Visual]**
